@@ -53,7 +53,7 @@ const RoutingNavbar = () => {
   ];
   return (
     <>
-      <Navbar className="dark:bg-darkBackground dark:text-white absolute top-0 left-0 w-full ">
+      <Navbar className="dark:bg-none  dark:text-white absolute top-0 left-0 w-full ">
         <NavbarBrand>
           <AcmeLogo />
           <p className={`${fonts.rajdhani.className} font-bold text-lg `}>
