@@ -11,18 +11,6 @@
                 "UNICODE",
                 "_UNICODE"
             ]
-        },
-        {
-            "name": "/usr/bin/gcc",
-            "includePath": [
-                "${workspaceFolder}/**",
-                "${vcpkgRoot}/x64-windows/include"
-            ],
-            "defines": [
-                "_DEBUG",
-                "UNICODE",
-                "_UNICODE"
-            ]
         }
     ],
     "version": 4
